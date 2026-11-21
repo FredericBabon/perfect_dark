@@ -2,6 +2,7 @@
 *.pyc
 *.dll
 *.exe
+*.bak
 pd.*.z64
 build
 .flatpak-builder
